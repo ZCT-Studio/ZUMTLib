@@ -470,8 +470,7 @@ safest to attach them to the start of each source file to most effectively
 convey the exclusion of warranty; and each file should have at least the
 "copyright" line and a pointer to where the full notice is found.
 
-    ZUMTLib - A C++ library for Unix Memory Operations
-    Copyright (C) 2026  CZF-H
+    Copyright (C) 2026 ZCT Studio
 
     This library is free software; you can redistribute it and/or
     modify it under the terms of the GNU Lesser General Public
@@ -488,5 +487,5 @@ convey the exclusion of warranty; and each file should have at least the
     Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301
     USA
 
-    江芷酱紫, 24 March 2026, Authorized Contributor of CZF-H
+    WJiangzhi, 24 March 2026, Authorized Contributor of ZCT Studio
     Contact: wanjiangzhi@outlook.com
