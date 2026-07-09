@@ -11,6 +11,7 @@
 #pragma ide diagnostic ignored "OCUnusedTypeAliasInspection"
 #pragma ide diagnostic ignored "OCUnusedGlobalDeclarationInspection"
 
+#include "ZUMTLib_Constants.hpp"
 #include <cstddef>
 #include <cstring>
 #include <utility>
